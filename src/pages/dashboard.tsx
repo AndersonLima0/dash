@@ -77,7 +77,7 @@ export default function Dashboard() {
               Inscritos da semana
             </Text>
             <Chart
-              options:any={options}
+              options={options}
               series={series}
               type="area"
               height={160}
@@ -88,7 +88,7 @@ export default function Dashboard() {
               Taxa de abertura
             </Text>
             <Chart
-              options:any={options}
+              options={options}
               series={series}
               type="area"
               height={160}
