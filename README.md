@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<div>
+<h2>Dashboard:</h2>
+<img src="src/assets/dashboard.jpg"/>
+</div>
+
+<br>
+<div>
+<h2>Users list</h2>
+<img src="src/assets/userList.jpg"/>
+</div>
+
 ## Getting Started
 
 First, run the development server:
