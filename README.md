@@ -8,7 +8,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 <br>
 <div>
 <h2>Users list</h2>
-<img src="src/assets/userList.jpg"/>
+<img src="src/assets/usersList.jpg"/>
 </div>
 
 ## Getting Started
